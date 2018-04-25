@@ -1,6 +1,6 @@
 {
-    "name": "prettus/laravel-validation",
-    "description": "Laravel Validation Service",
+    "name": "wakasann/laravel-validation",
+    "description": "Laravel Validation Service Fork from prettus/laravel-validation",
     "keywords": ["laravel", "validation", "service"],
     "authors": [
         {
